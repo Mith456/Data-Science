@@ -9,8 +9,9 @@ The objective of this mini-project is as follows:
 3) Conduct Multiple Regression and provide an estimate of it's testing accuracy.
 
 ## Homework 2: Polynomial Regression Model
-For a true sine function, generate training samples and fit this function with a polynomial model. Follwing tasks includes,
-1)Generate the Design Matrix for the polynomial model.
+For a true sine function, generate training samples and fit this function with a polynomial model. Follwing tasks includes:
+
+1) Generate the Design Matrix for the polynomial model.
 
 2) Use simulation to compute the bias and variance for polynomial model from order 1 to 20.
 
